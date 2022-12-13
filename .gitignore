@@ -2,7 +2,7 @@
 */terraform.tfvars
 */terraform.tfstate
 */terraform.tfstate.backup
-*/.terraform./*
+*.terraform.*
 # .tfstate files
 *.tfstate
 *.tfstate.*
